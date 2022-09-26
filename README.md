@@ -1,20 +1,20 @@
 <p align="center">
-    <br><b>😫 𝗙𝗮𝗹𝗹𝗲𝗻 𝗠𝘂𝘀𝗶𝗰 😫</b><br>
+    <br><b>😫 saimanxmusic 😫</b><br>
 </p>
 <p align="center"><a href="https://t.me/DevilsHeavenMF"><img src="https://telegra.ph/file/89cbc8b8760b6abff430f.jpg"></a></p>
 
 Fallen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
 <p align="center">
-    <img src="https://img.shields.io/github/stars/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Watchers">
-    <img src="https://img.shields.io/github/license/AnonymousR1025/FallenMusic?style=for-the-badge" alt="LICENSE">
-    <img src="https://img.shields.io/github/commit-activity/w/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Commit Activity">
-    <a href="https://github.com/AnonymousR1025/FallenMusic/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/FallenMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <img src="https://img.shields.io/github/contributors/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Contributors">
-    <a href="https://github.com/pagalhacker12/saimanxmusic1/issues"> <img src="https://img.shields.io/github/issues/AnonymousR1025/FallenMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/pagalhacker12/saimanxmusic1"> <img src="https://img.shields.io/github/repo-size/AnonymousR1025/FallenMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <img src="https://img.shields.io/github/stars/pagalhacker12/saimanxmusic1?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/pagalhacker12/saimanxmusic1?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/pagalhacker12/saimanxmusic1?style=for-the-badge" alt="Watchers">
+    <img src="https://img.shields.io/github/license/pagalhacker12/saimanxmusic1?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/commit-activity/w/pagalhacker12/FallenMusic?style=for-the-badge" alt="Commit Activity">
+    <a href="https://github.com/pagalhacker12/saimanxmusic1/commits/pagalhacker12"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/FallenMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <img src="https://img.shields.io/github/contributors/pagalhacker12/saimanxmusic1?style=for-the-badge" alt="Contributors">
+    <a href="https://github.com/pagalhacker12/saimanxmusic1/issues"> <img src="https://img.shields.io/github/issues/pagalhacker12/saimanxmusic1?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/pagalhacker12/saimanxmusic1"> <img src="https://img.shields.io/github/repo-size/pagalhacker12/saimanxmusic1?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
